@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UserAPP</string>
+    <string name="edit_text_username">Usuário</string>
+    <string name="edit_text_password">Senha</string>
+    <string name="button_login">login</string>
+    <string name="registerLink">Novo aqui? Registre-se gratis!</string>
+    <string name="button_register">Registrar</string>
+    <string name="text_boas_vindas">Bem-Vindo ao UserAPP</string>
+    <string name="text_register_title">Registre-se</string>
+    <string name="edit_text_new_user">Nome de usuário</string>
+    <string name="edit_text_new_pass">Sua senha</string>
+    <string name="bem_vindo">BEM-VINDO</string>
+</resources>
